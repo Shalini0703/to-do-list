@@ -1,0 +1,22 @@
+.Todolist{
+    text-align: center;
+}
+
+.heading{
+    background-color: tan;
+    font-weight: bold;
+    text-decoration: underline;
+    height: 40px;
+}
+
+body {
+    background-color: beige;
+}
+
+.TaskList {
+    text-align: left;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+    padding: 20px;
+}
